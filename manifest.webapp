@@ -1,0 +1,14 @@
+{
+	"name":"Hello world",
+	"description":"Test",
+	"launch_path":"index.html",
+	"icons":{
+		"128":"icon.png"
+	},
+	"developer":{
+		"name":"Franco",
+		"url":"test.com"
+	},
+	"default_locate":"it"
+
+}
